@@ -1,1 +1,9 @@
+---
+layout: post
+title:  "모던 자바스크립트 입문 - 1장. 자바스크립트의 개요"
+date:   2018-07-31 09:40:10 +0900
+categories: jekyll update
+---
+
 # 리액트 시작하기
+
