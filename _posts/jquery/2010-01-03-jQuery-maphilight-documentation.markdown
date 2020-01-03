@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " 유용한 자바스크립트 - jQuery-maphilight-documentation"
-categories: jekyll update
+categories: jQuery
 ---
 
 # jQuery-maphilight-documentation
