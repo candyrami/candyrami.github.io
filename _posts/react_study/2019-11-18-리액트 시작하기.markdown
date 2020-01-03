@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "모던 자바스크립트 입문 - 1장. 자바스크립트의 개요"
-date:   2018-07-31 09:40:10 +0900
+title:  "리액트시작하기"
 categories: jekyll update
 ---
 
